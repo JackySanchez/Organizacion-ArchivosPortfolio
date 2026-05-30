@@ -1,9 +1,9 @@
-# Portafolio de Arquitectura y Organización de Archivos - Semestre 2026
+# Portafolio de Arquitectura y Organización de Archivos - Semestre 4 2026
 
 ## 👤 Perfil del Alumno
 * **Nombre:** Jacqueline Sanchez Gonzalez
 * **Número de Control:** 242310048
-* **Semestre y Grupo:** 4to Semestre - Grupo A
+* **Semestre y Grupo:** 4to Semestre
 * **Carrera:** Ingeniería Informática
 * **Institución:** Instituto Tecnológico Superior de Lerdo
 * **Materia:** Administración y Organización de Datos
