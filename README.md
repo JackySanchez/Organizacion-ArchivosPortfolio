@@ -7,7 +7,7 @@
 * **Carrera:** Ingeniería Informática
 * **Institución:** Instituto Tecnológico Superior de Lerdo
 * **Materia:** Administración y Organización de Datos
-* **Catedrático:** I.S.C. Jesús Salas Marín
+* **Docente:** Jesús Salas Marín
 
 ---
 
