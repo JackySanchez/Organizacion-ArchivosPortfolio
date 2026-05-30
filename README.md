@@ -22,8 +22,8 @@ Este repositorio es una recopilación estratégica de los proyectos desarrollado
 | :--- | :--- | :--- |
 | **[Proyecto 1: KLIK](https://github.com/JackySanchez/Organizacion-ArchivosPortfolio/tree/2ea713458f65dbc37ca0fbfcafd58ac7a7bb7abd/Actividad%20de%20Evaluacio%CC%81n%20Corte%201)** | Gestión de inventarios masivos (KLIK) con persistencia en TXT y reportes PDF. | PHP, FPDF, CSS3 |
 | **[Proyecto 2: ABPj Acceso](https://github.com/JackySanchez/Organizacion-ArchivosPortfolio/tree/2ea713458f65dbc37ca0fbfcafd58ac7a7bb7abd/Actividad%20de%20evaluacio%CC%81n%20%E2%80%93%20ABPj%20-%20Control%20de%20acceso)** | Sistema híbrido de seguridad y auditoría con validación JSON. | Python, PHP, JSON |
-| **[Proyecto 3: Integradora C3](./Actividad%20integradora%20de%20evaluación_C3/)** | Análisis de tendencias de ventas y visualización científica. | Python, Pandas, Matplotlib |
-| **[Proyecto 4: Evaluación OA](./Proyecto%20Evaluacion%20Evaluación%20general%20de%20OA/)** | Sistema Hospitalario: Rendimiento de archivos y Dashboards médicos. | Python, Pandas, JSON |
+| **[Proyecto 3: Integradora C3](https://github.com/JackySanchez/Organizacion-ArchivosPortfolio/tree/83ce5c389c359eee689821e62078513fe20afde3/Actividad%20integradora%20de%20evaluaci%C3%B3n_C3)** | Análisis de tendencias de ventas y visualización científica. | Python, Pandas, Matplotlib |
+| **[Proyecto 4: Evaluación OA](https://github.com/JackySanchez/Organizacion-ArchivosPortfolio/tree/2ea713458f65dbc37ca0fbfcafd58ac7a7bb7abd/Proyecto%20Evaluacion%20Evaluacio%CC%81n%20general%20de%20OA)** | Sistema Hospitalario: Rendimiento de archivos y Dashboards médicos. | Python, Pandas, JSON |
 
 ---
 
