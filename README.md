@@ -20,7 +20,7 @@ Este repositorio es una recopilación estratégica de los proyectos desarrollado
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[Proyecto 1: KLIK](./Actividad%20de%20Evaluación%20Corte%201/)** | Gestión de inventarios masivos (KLIK) con persistencia en TXT y reportes PDF. | PHP, FPDF, CSS3 |
+| **[Proyecto 1: KLIK](https://github.com/JackySanchez/Organizacion-ArchivosPortfolio/tree/2ea713458f65dbc37ca0fbfcafd58ac7a7bb7abd/Actividad%20de%20Evaluacio%CC%81n%20Corte%201)** | Gestión de inventarios masivos (KLIK) con persistencia en TXT y reportes PDF. | PHP, FPDF, CSS3 |
 | **[Proyecto 2: ABPj Acceso](./Actividad%20de%20evaluación%20–%20ABPj%20-%20Control%20de%20acceso/)** | Sistema híbrido de seguridad y auditoría con validación JSON. | Python, PHP, JSON |
 | **[Proyecto 3: Integradora C3](./Actividad%20integradora%20de%20evaluación_C3/)** | Análisis de tendencias de ventas y visualización científica. | Python, Pandas, Matplotlib |
 | **[Proyecto 4: Evaluación OA](./Proyecto%20Evaluacion%20Evaluación%20general%20de%20OA/)** | Sistema Hospitalario: Rendimiento de archivos y Dashboards médicos. | Python, Pandas, JSON |
