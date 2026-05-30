@@ -21,7 +21,7 @@ A través de estos proyectos, he explorado la transición entre el manejo de arc
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[Proyecto 1: KLIK]([./Proyecto-1-KLIK-Control-Inventario/])** | Sistema de inventario masivo (10k registros) con reportes PDF. | PHP, FPDF, TXT |
+| **[Proyecto 1: KLIK](./Actividad de Evaluación Corte 1/)** | Sistema de inventario masivo (10k registros) con reportes PDF. | PHP, FPDF, TXT |
 | **[Proyecto 2: ABPj Acceso](./Proyecto-2-ABPj-Control-Acceso/)** | Control de acceso híbrido y monitor de seguridad. | Python, PHP, JSON |
 | **[Proyecto 3: Integradora C3](./Proyecto-3-Actividad-Integradora-C3/)** | Análisis científico de ventas y Big Data. | Python, Pandas, Matplotlib |
 | **[Proyecto 4: Evaluación OA](#)** | *(Cargando archivos...)* | Pendiente |
