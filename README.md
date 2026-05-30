@@ -7,39 +7,36 @@
 * **Carrera:** Ingeniería Informática
 * **Institución:** Instituto Tecnológico Superior de Lerdo
 * **Materia:** Administración y Organización de Datos
+* **Catedrático:** I.S.C. Jesús Salas Marín
 
 ---
 
 ## 📂 Descripción del Portafolio
-Este repositorio es una recopilación estratégica de los proyectos desarrollados durante el semestre, enfocados en la **Arquitectura de Software** y la **Gestión Eficiente de Archivos**. 
-
-A través de estos proyectos, he explorado la transición entre el manejo de archivos planos (TXT, CSV, JSON) y la lógica de programación necesaria para transformar datos crudos en información visual y útil para la toma de decisiones.
+Este repositorio es una recopilación estratégica de los proyectos desarrollados durante el semestre. El enfoque principal es la **Arquitectura de Software** y la **Gestión Eficiente de Archivos**, demostrando la transición técnica desde el manejo de archivos planos hasta la analítica de datos avanzada.
 
 ---
 
-## 🛠️ Proyectos Principales
+## 🛠️ Proyectos del Semestre
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[Proyecto 1: KLIK](./Actividad de Evaluación Corte 1/)** | Sistema de inventario masivo (10k registros) con reportes PDF. | PHP, FPDF, TXT |
-| **[Proyecto 2: ABPj Acceso](./Proyecto-2-ABPj-Control-Acceso/)** | Control de acceso híbrido y monitor de seguridad. | Python, PHP, JSON |
-| **[Proyecto 3: Integradora C3](./Proyecto-3-Actividad-Integradora-C3/)** | Análisis científico de ventas y Big Data. | Python, Pandas, Matplotlib |
-| **[Proyecto 4: Evaluación OA](#)** | *(Cargando archivos...)* | Pendiente |
+| **[Proyecto 1: KLIK](./Actividad%20de%20Evaluación%20Corte%201/)** | Gestión de inventarios masivos (KLIK) con persistencia en TXT y reportes PDF. | PHP, FPDF, CSS3 |
+| **[Proyecto 2: ABPj Acceso](./Actividad%20de%20evaluación%20–%20ABPj%20-%20Control%20de%20acceso/)** | Sistema híbrido de seguridad y auditoría con validación JSON. | Python, PHP, JSON |
+| **[Proyecto 3: Integradora C3](./Actividad%20integradora%20de%20evaluación_C3/)** | Análisis de tendencias de ventas y visualización científica. | Python, Pandas, Matplotlib |
+| **[Proyecto 4: Evaluación OA](./Proyecto%20Evaluacion%20Evaluación%20general%20de%20OA/)** | Sistema Hospitalario: Rendimiento de archivos y Dashboards médicos. | Python, Pandas, JSON |
 
 ---
 
-## 🚀 Competencias Desarrolladas
-1. **Manipulación de Archivos:** Apertura, lectura, escritura y cierre de flujos de datos en servidor.
-2. **Seguridad Web:** Gestión de sesiones de usuario y protección de rutas.
-3. **Ciencia de Datos:** Análisis estadístico y generación de gráficas de rendimiento.
-4. **Arquitectura Limpia:** Organización de proyectos siguiendo el estándar `src/` y documentación profesional en Markdown.
+## 🚀 Competencias y Aprendizajes
+1. **Gestión de Flujos de Datos:** Implementación de operaciones CRUD utilizando archivos planos como base de datos persistente.
+2. **Seguridad y Auditoría:** Creación de registros de logs (`auditoria.txt`) y control de acceso mediante sesiones seguras.
+3. **Optimización de Rendimiento:** Comparativa técnica entre formatos (CSV vs JSON) y medición de tiempos de ejecución.
+4. **Visualización de Información:** Transformación de datos abstractos en herramientas visuales (Gráficas de barras e histogramas).
 
 ---
 
 ## 🧠 Reflexión Crítica
-El desarrollo de este portafolio me ha permitido entender que la base de cualquier sistema complejo no es solo el código, sino cómo se organizan los datos. Aprender a gestionar archivos planos antes de utilizar Bases de Datos Relacionales (SQL) me dio una perspectiva profunda sobre el rendimiento, la estructura y la importancia de la validación de datos. 
-
-Este portafolio representa mi capacidad para resolver problemas técnicos integrando diferentes lenguajes de programación.
+Dominar la lógica de archivos planos antes de migrar al uso de Bases de Datos Relacionales (SQL) me dio una perspectiva profunda sobre cómo estructurar datos de manera limpia, segura y eficiente. Este portafolio representa mi capacidad para resolver problemas técnicos integrando diferentes lenguajes de programación.
 
 ---
 
